@@ -1,0 +1,21 @@
+{
+  "name": "framework-arduinoch55x",
+  "version": "1.0.0",
+  "description": "Arduino-like framework for WCH CH55x microcontrollers (CH552, CH554, CH559) built on SDCC.",
+  "keywords": ["framework", "arduino", "ch55x", "wch", "8051"],
+  "homepage": "https://github.com/bertrik/ch55xduino",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bertrik/ch55xduino.git"
+  },
+  "authors": [
+    {
+      "name": "Deqing Sun",
+      "url": "https://github.com/DeqingSun"
+    }
+  ],
+  "platforms": ["intel_mcs51"],
+  "frameworks": ["arduino"],
+  "system": ["windows", "linux", "darwin"]
+}
+
