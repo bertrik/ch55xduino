@@ -1,0 +1,12 @@
+{
+  "name": "framework-arduinoch55x",
+  "title": "Arduino Core for CH55x",
+  "description": "Arduino-like framework for WCH CH55x (CH552/CH554/CH559) microcontrollers using SDCC.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/bertrik/ch55xduino",
+  "platforms": ["intel_mcs51"],
+  "build": {
+    "core": "ch55xduino"
+  }
+}
+
